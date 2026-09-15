@@ -1,4 +1,4 @@
-# Pink-Dark-Theme-Aesthetic-SIte-Skin
+# Pink-Aesthetic-Site-Skin
 **How To Add Skin:**
 
 1. Copy the code
