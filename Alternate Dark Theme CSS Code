@@ -570,7 +570,7 @@ div.preface .module::after {
   background-repeat: no-repeat;
   background-position: center;
   display: block;
-  width: 100px;
+  width: 150px;
   height: 100px;
   margin: 3px auto 0;
 }
