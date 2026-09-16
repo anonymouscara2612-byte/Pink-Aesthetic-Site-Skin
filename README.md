@@ -14,7 +14,7 @@
 **NOTE:** Some regions doesn't support pictures uploaded to tumblr. So I made another version of the code with a different image hosting site (which does work for those regions as far as I know). The other version is in the "alternate CSS Code" file.
 
 
-**How to make it automatically switch between dark and light theme:**
+_**HOW TO MAKE IT AUTOMATICALLY SWITCH BETWEEN DARK AND LIGHT THEME:**_
 
 Bear with me, it's a bit of a complicated process...
 
